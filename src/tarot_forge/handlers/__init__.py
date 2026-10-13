@@ -1,0 +1,1 @@
+"""Feature handlers — one handler per GUI action, decoupled from Qt."""
