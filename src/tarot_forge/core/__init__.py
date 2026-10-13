@@ -1,0 +1,1 @@
+"""Core engine — deck model, spread geometry, draw pipeline."""
