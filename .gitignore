@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+
+# Build
+dist/
+build/
+*.spec
+
+# Runtime state
+logs/
+out/
+*.log
+
+# Model checkpoints (large; fetch separately)
+models/*.safetensors
+models/*.ckpt
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
