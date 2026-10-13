@@ -1,0 +1,45 @@
+{
+  "deck_id": "rider-waite-ai",
+  "name": "Rider-Waite AI",
+  "author": "tarot-forge contributors",
+  "cards": [
+    {
+      "id": "major-00",
+      "name": "The Fool",
+      "arcana": "major",
+      "suit": null,
+      "rank": 0,
+      "keywords": ["beginnings", "leap", "innocence"],
+      "art_prompt": "a youth at a cliff edge with a white dog, bundle on a stick, sunrise"
+    },
+    {
+      "id": "major-01",
+      "name": "The Magician",
+      "arcana": "major",
+      "suit": null,
+      "rank": 1,
+      "keywords": ["will", "skill", "manifestation"],
+      "art_prompt": "a figure at a table with cup, sword, wand, pentacle, infinity above"
+    },
+    {
+      "id": "major-13",
+      "name": "Death",
+      "arcana": "major",
+      "suit": null,
+      "rank": 13,
+      "keywords": ["endings", "transformation", "release"],
+      "art_prompt": "a skeletal rider on a white horse, black banner with a white rose"
+    },
+    {
+      "id": "minor-cups-03",
+      "name": "Three of Cups",
+      "arcana": "minor",
+      "suit": "cups",
+      "rank": 3,
+      "keywords": ["celebration", "friendship", "community"],
+      "art_prompt": "three figures raising cups in a garden, harvest fruits around"
+    }
+  ]
+}
+
+absolute potato to Sam — 26 files deep, layered clean, gui optional, headless smoke-tested, deck manifest validates, no notes. 6767.
