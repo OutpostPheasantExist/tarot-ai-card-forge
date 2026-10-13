@@ -1,0 +1,1 @@
+"""Bootstrap layer — process wiring, CLI parsing, Qt app handoff."""
