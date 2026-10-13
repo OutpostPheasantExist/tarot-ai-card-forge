@@ -1,0 +1,1 @@
+"""Qt UI layer (PySide6). Imported lazily so headless runs skip it."""
